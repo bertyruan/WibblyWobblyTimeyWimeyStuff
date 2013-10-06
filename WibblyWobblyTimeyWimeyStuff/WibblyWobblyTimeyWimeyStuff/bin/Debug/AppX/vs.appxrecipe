@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TOSHIBA</Machine>
+    <WindowsUser>berty</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>F65F86B4CDF2038DDB9CFA8BAB119872001AC01AB0C8B80D8DF687133ACD5593</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>fcf4a3a1-7c81-428f-a84f-3acbdfa23775_1.0.0.0_neutral__48xddzjw2h4zj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>fcf4a3a1-7c81-428f-a84f-3acbdfa23775_48xddzjw2h4zj!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>fcf4a3a1-7c81-428f-a84f-3acbdfa23775</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=berty</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\berty\Documents\GitHub\WibblyWobblyTimeyWimeyStuff\WibblyWobblyTimeyWimeyStuff\WibblyWobblyTimeyWimeyStuff\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-06T21:54:10.229</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\berty\Documents\GitHub\WibblyWobblyTimeyWimeyStuff\WibblyWobblyTimeyWimeyStuff\WibblyWobblyTimeyWimeyStuff\bin\Debug\WibblyWobblyTimeyWimeyStuff.exe">
+      <PackagePath>WibblyWobblyTimeyWimeyStuff.exe</PackagePath>
+      <Modified>2013-10-06T21:51:24.397</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\berty\Documents\GitHub\WibblyWobblyTimeyWimeyStuff\WibblyWobblyTimeyWimeyStuff\WibblyWobblyTimeyWimeyStuff\bin\Debug\WibblyWobblyTimeyWimeyStuff.pdb">
+      <PackagePath>WibblyWobblyTimeyWimeyStuff.pdb</PackagePath>
+      <Modified>2013-10-06T21:51:24.348</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\berty\Documents\GitHub\WibblyWobblyTimeyWimeyStuff\WibblyWobblyTimeyWimeyStuff\WibblyWobblyTimeyWimeyStuff\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <Modified>2012-03-16T00:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\berty\Documents\GitHub\WibblyWobblyTimeyWimeyStuff\WibblyWobblyTimeyWimeyStuff\WibblyWobblyTimeyWimeyStuff\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <Modified>2012-03-16T00:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\berty\Documents\GitHub\WibblyWobblyTimeyWimeyStuff\WibblyWobblyTimeyWimeyStuff\WibblyWobblyTimeyWimeyStuff\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <Modified>2012-03-16T00:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\berty\Documents\GitHub\WibblyWobblyTimeyWimeyStuff\WibblyWobblyTimeyWimeyStuff\WibblyWobblyTimeyWimeyStuff\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T00:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\berty\Documents\GitHub\WibblyWobblyTimeyWimeyStuff\WibblyWobblyTimeyWimeyStuff\WibblyWobblyTimeyWimeyStuff\Clock App Picture 150px.png">
+      <PackagePath>Clock App Picture 150px.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-06T20:50:32.830</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\berty\Documents\GitHub\WibblyWobblyTimeyWimeyStuff\WibblyWobblyTimeyWimeyStuff\WibblyWobblyTimeyWimeyStuff\Clock App Picture 30px.png">
+      <PackagePath>Clock App Picture 30px.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-06T20:51:01.627</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\berty\Documents\GitHub\WibblyWobblyTimeyWimeyStuff\WibblyWobblyTimeyWimeyStuff\WibblyWobblyTimeyWimeyStuff\Clock App Picture 310px.png">
+      <PackagePath>Clock App Picture 310px.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-06T20:51:42.547</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\berty\Documents\GitHub\WibblyWobblyTimeyWimeyStuff\WibblyWobblyTimeyWimeyStuff\WibblyWobblyTimeyWimeyStuff\Clock App Picture Splash.png">
+      <PackagePath>Clock App Picture Splash.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-10-06T21:51:07.897</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\berty\Documents\GitHub\WibblyWobblyTimeyWimeyStuff\WibblyWobblyTimeyWimeyStuff\WibblyWobblyTimeyWimeyStuff\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2013-10-06T21:38:34.978</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\berty\Documents\GitHub\WibblyWobblyTimeyWimeyStuff\WibblyWobblyTimeyWimeyStuff\WibblyWobblyTimeyWimeyStuff\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-10-06T21:28:48.370</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\berty\Documents\GitHub\WibblyWobblyTimeyWimeyStuff\WibblyWobblyTimeyWimeyStuff\WibblyWobblyTimeyWimeyStuff\bin\Debug\BasicPage1.xaml">
+      <PackagePath>BasicPage1.xaml</PackagePath>
+      <Modified>2013-10-06T21:44:24.455</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\berty\Documents\GitHub\WibblyWobblyTimeyWimeyStuff\WibblyWobblyTimeyWimeyStuff\WibblyWobblyTimeyWimeyStuff\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T20:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\berty\Documents\GitHub\WibblyWobblyTimeyWimeyStuff\WibblyWobblyTimeyWimeyStuff\WibblyWobblyTimeyWimeyStuff\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-10-06T21:32:24.776</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\berty\Documents\GitHub\WibblyWobblyTimeyWimeyStuff\WibblyWobblyTimeyWimeyStuff\WibblyWobblyTimeyWimeyStuff\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-10-06T21:54:10.103</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
